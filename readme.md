@@ -17,7 +17,7 @@ For reference, Gift Aid is calculated as follows:
 - No actual database implementation is required, feel free to stub it out.
 - Your code should trend towards being SOLID.
 - Please [download](https://github.com/JustGiving/Java-Recruitment-Test/archives/master) the [Java-Recruitment-Test repository](https://github.com/JustGiving/Java-Recruitment-Test), complete the tasks as you see fit.
-- Send us a Dropbox/Skydrive/whatever link to your zipped code but please do not attach zipped files to email.
+- Send us a Dropbox/Skydrive/whatever link to your zipped code but please do not send attached zip files via email.
 - **OR**
 - If you have a paid GitHub account, feel free to create a **private repo** (you don't want people to copy you!) and send us a pull request.
 
